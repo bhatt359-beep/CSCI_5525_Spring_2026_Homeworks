@@ -48,3 +48,5 @@ Since we had large datasets, I did not provide them in the repo. However, I did 
 ```
 python download_data.py
 ```
+
+Instructions for how to run the projects are within the pdf files that told us what to do for each project.
