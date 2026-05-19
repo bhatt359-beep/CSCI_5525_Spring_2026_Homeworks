@@ -39,3 +39,11 @@ This is a rough idea of what each Homework Assignment tests for:
 - HW2 tested to see if we could find frequent itemsets
 - HW3 tested our ability to find similar sets
 - HW4 had us make a small version of a recommender system, where we see how similar different user's tastes are
+
+## Note about the projects
+
+Since we had large datasets, I did not provide them in the repo. However, I did add a script that lets you download them. Before running any of the homework scripts, use this command.
+
+```
+python download_data.py
+```
