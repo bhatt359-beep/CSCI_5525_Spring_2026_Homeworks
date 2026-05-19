@@ -35,10 +35,11 @@ pip install -r requirements.txt
 This is a rough idea of what each Homework Assignment tests for:
 
 - HW0 was just meant to see if we could install and use pyspark.
-- HW1 tested to see if we could use different pyspark functions.
+- HW1 tested to see if we could use different pyspark functions (it specifically taught us how to use mapping and reducing functions effectively).
 - HW2 tested to see if we could find frequent itemsets
 - HW3 tested our ability to find similar sets
 - HW4 had us make a small version of a recommender system, where we see how similar different user's tastes are
+- Matrix Multiplaction was not an official homework assignment, but I added it just because it shows that I know how to implement matrix multiplication using map-reduce functions
 
 ## Note about the projects
 
